@@ -34,6 +34,7 @@ Resources:
 3. TutorialsPoint:
 
 Python Lists: Explains how to create, access, and manipulate lists in Python, which is essential for working with a grid. https://www.tutorialspoint.com/python/python_lists.htm
+
 4. YouTube Tutorials:
 
 	Python 2D arrays and lists https://www.youtube.com/watch?v=aNzepGawwCI
